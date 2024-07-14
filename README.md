@@ -34,3 +34,7 @@ The **SSN-Core** framework provides a robust and flexible foundation for develop
 - **servo_control_module.py:** Manages the control of servos. It provides functions to initialize servos, send control signals, and manage their states.
 
 - **main.py:** The entry point of the application. This file integrates all modules and starts the execution of the framework.
+
+## **License**
+This project is licensed under the BSD 3-Clause License. See the LICENSE file for more details.
+
